@@ -10,6 +10,12 @@ body {
   margin: 0;
 }
 
+.btn-default {
+  color: #ffffff;
+  background-color: #8e979f;
+  border-color: #ebebeb;
+
+}
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
